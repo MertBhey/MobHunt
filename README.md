@@ -1,5 +1,5 @@
 # MobHunt
-This plugin creates an *nearly* fully customizable fancy gui and notifiers. I created this plugin to play with my friends for this reason the kills are not user-based. Everyone is on the same team. What a great thing, right?
+This plugin creates a *nearly* fully customizable fancy GUI and notifiers. I created this plugin to play with my friends. For this reason, the kills are not user-based. Everyone is on the same team. What a great thing, right?
 
 # Edit & Build
 You have to compile [CraftBukkit jar](https://www.spigotmc.org/wiki/buildtools/#compile-craftbukkit) using the Spigot [BuildTools](https://www.spigotmc.org/wiki/buildtools/#running-buildtools)
