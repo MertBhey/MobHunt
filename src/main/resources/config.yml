@@ -1,0 +1,79 @@
+prefix: "&bMob Hunt"
+messages:
+  found: 
+    title: "%prefix%"
+    subtitle: "&a%user% &7killed &a%mob%"
+  remaining: "&c%remaining% &7mob types out of &c%count% &7remaining"
+  nextPage: "&fNext page"
+  prevPage: "&fPrevious page"
+  guiTitle: "&cHunt stats"
+  head:
+    name: "&a%player%'s stats"    
+    lore: "&c%progress%&7/&a%count% mobs killed.\n&fSecond line"
+mobs:
+  ELDER_GUARDIAN: false
+  WITHER_SKELETON: false
+  STRAY: false
+  HUSK: false
+  ZOMBIE_VILLAGER: false
+  SKELETON_HORSE: false
+  ZOMBIE_HORSE: false
+  DONKEY: false
+  EVOKER: false
+  VEX: false
+  VINDICATOR: false
+  CREEPER: false
+  SKELETON: false
+  SPIDER: false
+  ZOMBIE: false
+  SLIME: false
+  GHAST: false
+  ZOMBIFIED_PIGLIN: false
+  ENDERMAN: false
+  CAVE_SPIDER: false
+  SILVERFISH: false
+  BLAZE: false
+  MAGMA_CUBE: false
+  ENDER_DRAGON: false
+  WITHER: false
+  BAT: false
+  WITCH: false
+  ENDERMITE: false
+  GUARDIAN: false
+  SHULKER: false
+  PIG: false
+  SHEEP: false
+  COW: false
+  CHICKEN: false
+  SQUID: false
+  WOLF: false
+  SNOWMAN: false
+  OCELOT: false
+  IRON_GOLEM: false
+  HORSE: false
+  RABBIT: false
+  POLAR_BEAR: false
+  LLAMA: false
+  PARROT: false
+  VILLAGER: false
+  TURTLE: false
+  PHANTOM: false
+  COD: false
+  SALMON: false
+  PUFFERFISH: false
+  TROPICAL_FISH: false
+  DROWNED: false
+  DOLPHIN: false
+  CAT: false
+  PANDA: false
+  PILLAGER: false
+  RAVAGER: false
+  TRADER_LLAMA: false
+  WANDERING_TRADER: false
+  FOX: false
+  BEE: false
+  HOGLIN: false
+  PIGLIN: false
+  ZOGLIN: false
+  STRIDER: false
+  PIGLIN_BRUTE: false

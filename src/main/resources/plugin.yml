@@ -1,0 +1,8 @@
+name: MobHunt
+main: me.mertbhey.MobHunt.Main
+author: MertBhey
+version: "1.0"
+api-version: "1.16"
+commands:
+  hunt:
+    description: Your status
